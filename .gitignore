@@ -1,0 +1,15 @@
+# Archivos generados por GHDL
+*.cf
+*.vcd
+work-obj*
+*.o
+*.bin
+
+# Archivos temporales
+*.log
+*.out
+*.tmp
+
+# Config archivos generados por editores
+.vscode/
+.idea/
