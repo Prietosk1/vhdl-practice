@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "[vhdl]": {
+        "editor.defaultFormatter": "vinrobot.vhdl-formatter"
+    }
+}
