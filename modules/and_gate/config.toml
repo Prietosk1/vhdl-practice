@@ -1,0 +1,6 @@
+[languageserver]
+name = "VHDL LS"
+
+[workspace]
+root = "."
+library_mapping = { work = ["*.vhd"] }
